@@ -14,6 +14,7 @@
 ## Setup/Installation Requirements
 
 * Open up the index.html file in Google Chrome.
+* Optional Link to GH-Pages: https://brycebresnan.github.io/Portfolio/
 
 ## Known Bugs
 
