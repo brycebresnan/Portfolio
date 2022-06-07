@@ -2,7 +2,7 @@
 
 #### By Bryce Bresnan <Bryce.Bresnan@gmail.com>
 
-#### This is a landing page for my (Bryce Bresnan) portfolio. It contains a list of my current projects, sections regarding my background, skills, current hobbies and interests. It is deployed on GitHub Pages.
+#### This is a landing page for my (Bryce Bresnan) portfolio. It contains a list of my current projects(including links to their respective GitHub Repos), as well as an About Me page containing sections regarding my background, skills, current hobbies and interests. It is deployed on GitHub Pages.
 
 ## Technologies Used
 
@@ -13,7 +13,10 @@
 
 ## Setup/Installation Requirements
 
-* Open up the index.html file in Google Chrome.
+* Clone this repository from GitHub.
+* Navigate to the top level of the directory.
+* Open index.html in Google Chrome.
+
 * Optional Link to GH-Pages: https://brycebresnan.github.io/Portfolio/
 
 ## Known Bugs
